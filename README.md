@@ -1,5 +1,5 @@
 # Noob-s-Calculator
-A calculator mostly used by noobs and NPCs in our open wold.
+A calculator mostly used by noobs and NPCs in our open wold. (cringe alert!)
 
 ![Screenshot 2025-03-13 072548](https://github.com/user-attachments/assets/2405c64a-5ed8-41d9-8164-138cc95699a0)
 
