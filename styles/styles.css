@@ -6,6 +6,10 @@ body {
   font-family: Arial, sans-serif;
 }
 
+.inner-box{
+  user-select: none;
+}
+
 .main {
   width: 100vw;
   height: 100vh;
