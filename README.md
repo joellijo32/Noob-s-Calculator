@@ -15,4 +15,4 @@ My first "web" project, featuring a caculator (normal for now), which is plannin
 NB: The project is very basic, as me being a beginner in the field. Please keep in mind.
 
 
-(^-^)!
+(^ - ^)!
