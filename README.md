@@ -5,6 +5,7 @@ A calculator mostly used by noobs and NPCs in our open wold. (cringe alert!)
 
 My first "web" project, featuring a caculator (normal for now), which is planning to be made something more simple and unique.
 
+[Hosted Link here](https://joellijo32.github.io/Noob-s-Calculator/)
 
 
 
