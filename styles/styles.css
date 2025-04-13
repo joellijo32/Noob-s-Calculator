@@ -6,9 +6,6 @@ body {
   font-family: Arial, sans-serif;
 }
 
-.inner-box{
-  user-select: none;
-}
 
 .main {
   width: 100vw;
@@ -51,7 +48,7 @@ body {
 
 .inner-box {
   width: 360px;
-
+   user-select: none; 
   height: 490px;
   background-color: rgba(67, 77, 82, 0.178);
   margin-top: 42px;
